@@ -22,7 +22,7 @@ The **AD User Inactive Checker** is a C# Windows Forms application designed to r
 1. Clone the repository to your local machine.
 
 ```
-git clone https://github.com/your-username/ADuserInactive.git
+git clone [https://github.com/your-username/ADuserInactive.git](https://github.com/baric6/ADuserInactive.git)
 ```
 1. Open the project in Visual Studio (or your preferred C# IDE).
 
